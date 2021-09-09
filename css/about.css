@@ -1,0 +1,14 @@
+	.atext1
+	{
+
+		float: left;
+		width: 60%;
+		height: 500px;
+		font-size: 15px;
+		color: white;
+		font-family:"loto",sans-serif;
+		margin-left: 150px;
+		padding-top: 100px;
+		line-height: 25px;
+
+	}

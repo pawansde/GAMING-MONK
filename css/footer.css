@@ -1,0 +1,42 @@
+	.foot
+	{
+
+	float: left;
+	width: 100%;
+	height: 170px;
+	background-color: black;
+	}
+
+
+	.ftext1
+	{
+		float: left;
+		width: 100%;
+		font-family: sans-serif;
+		color: red;
+		font-size: 25px;
+	}
+
+
+	.ftext2
+	{
+		float: left;
+		width: 60%;
+		font-family: sans-serif;
+		color: #dadada;
+		font-size: 12px;
+		padding-top: 25px;
+	}
+
+	.ftext3
+	{
+
+		float: left;
+		width: 100%;
+		font-family: "loto",sans-serif;
+		color: white;
+		font-size: 11px;
+		padding-top:30px;
+		text-align: center;
+
+	}

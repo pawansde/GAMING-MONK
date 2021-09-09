@@ -1,0 +1,78 @@
+
+	body
+	{
+		
+	}
+
+
+.image2
+{
+	float: left;
+	width: 100%;
+	height: 50%;
+}
+
+
+ .text1
+ {
+ 	float: left;
+ 	width: 80%;
+ 	height: 70px;
+ 	font-size: 25px;
+ 	font-family:  "Lato", sans-serif;
+ 	color: white;
+ 	margin-top: 50px;
+ 	margin-left: 50px;
+
+ }
+
+
+ .iborder
+ {
+float: left;
+width: auto;
+height: auto;
+padding-left: 50px;
+ }
+
+
+.image3
+{
+	float: left;
+	width: 20%;
+	height: 200px;
+	border: 2px solid white;
+	margin: 20px;
+}
+
+
+.image3:hover
+{
+	transform: scale(1.4);
+}
+
+
+	.text2
+	{
+		float:left;
+		width: 100%;
+		height: 50px;
+		text-align: center;
+		font-family:  "Lato", sans-serif;
+		color: white;
+		font-size: 25px;
+		padding-top: 40px;
+
+	}
+
+
+	.text3
+	{
+		float:left;
+		width: 100%;
+		height: 50px;
+		text-align: center;
+		font-family:  "Lato", sans-serif;
+		color:#ef0034;
+		font-size: 15px;
+	}

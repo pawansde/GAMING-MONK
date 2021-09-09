@@ -1,0 +1,100 @@
+	
+
+	.logob a
+	{
+		text-decoration: none;
+		color: white;
+	}
+
+
+	.body1
+	{
+
+		float: left;
+		width: 50%;
+		margin-top: 50px;
+		font-size: 30px;
+		font-family: sans-serif;
+		font-weight: bold;
+		color :#ef0034;
+		text-align: center;
+	}
+
+
+	.body2
+	{
+
+		float: right;
+		width: 40%;
+		margin-top: 50px;
+		margin-right: 50px;
+		font-size: 30px;
+		font-family: sans-serif;
+		font-weight: bold;
+		color :#ef0034;
+		text-align: center;
+	}
+
+
+
+
+	.logtext1
+	{
+
+
+		float: left;
+		width: 30%;
+		height: 500px;
+		margin-top: 50px;
+		margin-left:130px; 
+	}
+
+
+
+	.logtext2
+	{
+
+
+		float: right;
+		width: 30%;
+		margin-top: 50px;
+		margin-right:130px; 
+	}
+
+
+
+	.input1{
+	display: block;
+    width: 100%;
+    height: 40px;
+    font-size:15px;
+    font-family: arial;
+    color:white;
+    background-color:#3e3e3e;
+    border: 1px solid red;
+    cursor: text;
+    border-radius: 5px;
+    text-align: center;
+	}
+
+
+
+
+
+
+	.logob
+	{
+		width: 150px;
+		height: 40px;
+		background-color: #ef0034;
+		font-size: 25px;
+		font-family: sans-serif;
+		border-radius: 5px;
+		line-height: 35px;
+		margin-top: 20px;
+		margin-left: 130px;
+		line-height: 40px;
+		text-align: center;
+	}
+
+
